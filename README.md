@@ -1,4 +1,4 @@
-# Portfolio_Political-orientation-prediction
+# Portfolio_Political orientation prediction
 
 # 프로젝트 동기
 ##### 빅데이터 기술이 관심의 대상이 되는 이유는 비정형 데이터를 분석 활용할 경우 고객의 정황적 경험이나 본인도 모르는 습관 등 다양한 형태의 취향정보를 추출하여 개별고객에 대한 관리가 가능해지기 때문이라고 생각했습니다. 
